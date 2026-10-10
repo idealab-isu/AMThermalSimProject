@@ -1,6 +1,6 @@
 # High-Resolution Thermal Simulation Framework for Extrusion-based Additive Manufacturing
 
-This is the repository that contains source code for the [project website]([https://idealab-isu.github.io/hires-thermal-sim/](https://idealab-isu.github.io/AMThermalSimProject/)).
+This is the repository that contains source code for the [project website](https://idealab-isu.github.io/AMThermalSimProject/).
 
 ## Abstract
 
